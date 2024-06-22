@@ -11,9 +11,7 @@
 
 - 👯 Estoy buscando colaborar en **proyectos con desafíos interesantes**
 
-- 🤝 I’m looking for help with **nono**
-
-- 👨‍💻 Todos mis proyectos se encuentran en [este Github](este Github)
+- 👨‍💻 Todos mis proyectos se encuentran en **este GitHub**
 
 - 💬 Pregúntame sobre **aplicaciones WEB**
 
